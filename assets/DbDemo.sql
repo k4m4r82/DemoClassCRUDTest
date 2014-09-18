@@ -1,0 +1,1 @@
+CREATE TABLE [bank] ([bank_id] INTEGER PRIMARY KEY AUTOINCREMENT, [nama_bank] VARCHAR(10));

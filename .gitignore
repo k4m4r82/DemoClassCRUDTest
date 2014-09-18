@@ -1,0 +1,13 @@
+# generated files
+bin/
+gen/
+
+# built application files
+*.apk
+*.ap_
+
+# ignore all files ending with ~
+*~ 
+
+# Java class files
+*.class
